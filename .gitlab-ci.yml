@@ -5,3 +5,4 @@ execute:
     stage: build
     script:
         - exit 0
+    image: debian:latest
