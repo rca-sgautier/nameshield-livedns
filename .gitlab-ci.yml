@@ -1,0 +1,7 @@
+stages:
+    - build
+
+execute:
+    stage: build
+    script:
+        - exit 0
