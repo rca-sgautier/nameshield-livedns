@@ -3,6 +3,7 @@
 The purpose of this container is to update DNS zone records using Nameshield API's with your WAN IP.
 
 This image is extremely lightweight  (Alpine Linux based) and has very few dependencies. The actual DNS update program is coded in shell script only.  
+
 This project is based of : https://github.com/jbbodart/gandi-livedns
 
 ## Configuration
